@@ -5,7 +5,7 @@
 PWSS (PGP Web Static Secure) is a data-centric, cryptographically verified alternative. It replaces DNS with a **Hash-Chained Domain Registry** and replaces browsers with a **Sovereign Verification Pipe.**
 
 ## The Stack
-- **pwss-core**: The mathematical guardian. Verifies PGP signatures and content integrity.
+- [**pwss-core**](https://github.com/zai1208/pwss-core): The mathematical guardian. Verifies PGP signatures and content integrity.
 - **pwss-fetch**: Protocol-agnostic resolution (HTTPS / Reticulum / LoRa).
 - **pwss-browser-glow**: A TUI-first browsing experience.
 
