@@ -7,7 +7,8 @@ PWSS (PGP Web Static Secure) is a data-centric, cryptographically verified alter
 ## The Stack
 - [**pwss-core**](https://github.com/zai1208/pwss-core): The mathematical guardian. Verifies PGP signatures and content integrity.
 - **pwss-fetch**: Protocol-agnostic resolution (HTTPS / Reticulum / LoRa).
-- **pwss-browser-glow**: A TUI-first browsing experience.
+  - [**pwss-fetch-https**](https://github.com.zai1208/pwss-fetch-https): A HTTPS PoC for fetching pages
+- [**pwss-browser-glow**](https://github.com/zai1208/pwss-browser-glow): A TUI-first browsing experience.
 
 ## The Manifesto
 1. **Identity is Sovereign**: Your handle is your PGP key. No registrars.
